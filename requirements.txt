@@ -1,0 +1,8 @@
+Flask
+numpy
+Regex
+opencv-python
+Pillow
+pytesseract
+os
+gunicorn
